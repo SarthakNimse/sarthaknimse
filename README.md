@@ -13,7 +13,7 @@ Passionate about building robust and scalable applications with expertise in Jav
 - 📫 How to reach me https://github.com/SarthakNimse
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
 
-## Stack I work with
+## Stack I work with 🤖
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -45,17 +45,17 @@ Passionate about building robust and scalable applications with expertise in Jav
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 
-## Social Media Handles
+## Social Media Handles 🐙
 [![Github](https://img.shields.io/github/followers/SarthakNimse?label=Follow&style=social)](https://github.com/SarthakNimse)
 [![Mail](https://img.shields.io/badge/sarthaknimse1999@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sarthaknimse1999@gmail.com)
 
-## Profile Visits
+## Profile Visits 👀
 ![Visitor Count](https://profile-counter.glitch.me/{SarthakNimse}/count.svg)
 
-### Badges
+### Badges 🏆
 | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SarthakNimse&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarthak's github stats" /></a> | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakNimse&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-<b>My GitHub Stats</b>
+## My GitHub Stats 📊 
 
 <a href="http://www.github.com/SarthakNimse"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakNimse&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
