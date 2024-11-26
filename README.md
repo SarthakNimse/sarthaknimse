@@ -1,7 +1,4 @@
 # 👋 Hi, I’m Sarthak
-<img src="https://github.com/SarthakNimse/SarthakNimse/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SarthakNimse/SarthakNimse/master/gif3.gif" width="500"/>
-
 
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
 
@@ -14,7 +11,7 @@
 💻 Curious about the intersection of AI and large language models, and always pushing boundaries to innovate!
 ✨ Check out my repositories to see how I bring ideas to life. Let’s build something amazing! 🌟
 
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
