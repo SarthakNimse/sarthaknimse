@@ -2,7 +2,6 @@
 
 
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
----------------------------------------
 
 🔥 Passionate Java Developer & Tech Enthusiast 🌟
 🚀 Building robust and scalable applications with a strong foundation in Java and J2EE technologies!
