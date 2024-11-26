@@ -1,5 +1,8 @@
-# 👋 Hi, I’m @SarthakNimse
+# 👋 Hi, I’m Sarthak
+
+
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
+---------------------------------------
 
 🔥 Passionate Java Developer & Tech Enthusiast 🌟
 🚀 Building robust and scalable applications with a strong foundation in Java and J2EE technologies!
@@ -70,3 +73,7 @@
 ## My GitHub Stats 📊 
 
 <a href="http://www.github.com/SarthakNimse"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakNimse&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+[![Sarthak's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=SarthakNimse&custom_title=SarthakNimse%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/SarthakNimse)
+
