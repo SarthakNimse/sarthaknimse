@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @SarthakNimse
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
 
-### 🔥 Passionate Java Developer & Tech Enthusiast 🌟
+🔥 Passionate Java Developer & Tech Enthusiast 🌟
 🚀 Building robust and scalable applications with a strong foundation in Java and J2EE technologies!
 💡 Skilled in Core Java, Spring Core, Spring Boot, Spring Data JPA, and Spring Security—crafting seamless and secure RESTful Web Services.
 ⚙️ Proficient in MySQL, and mastering Git/GitHub for efficient source code management.
