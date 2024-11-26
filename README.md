@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Sarthak
+<img src="https://github.com/SarthakNimse/SarthakNimse/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SarthakNimse/SarthakNimse/master/gif3.gif" width="500"/>
 
 
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
