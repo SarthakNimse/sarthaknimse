@@ -32,12 +32,13 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
@@ -55,7 +56,7 @@
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
+
 
 ## Social Media Handles 🐙
 [![Github](https://img.shields.io/github/followers/SarthakNimse?label=Follow&style=social)](https://github.com/SarthakNimse)
