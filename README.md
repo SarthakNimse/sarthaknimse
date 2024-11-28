@@ -11,7 +11,9 @@
 💻 Curious about the intersection of AI and large language models, and always pushing boundaries to innovate!
 ✨ Check out my repositories to see how I bring ideas to life. Let’s build something amazing! 🌟
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
@@ -68,6 +70,8 @@
 ### Badges 🏆
 | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SarthakNimse&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarthak's github stats" /></a> | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakNimse&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
+
+
 
 ## My GitHub Stats 📊 
 
