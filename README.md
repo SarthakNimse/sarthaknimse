@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sarthak
+# Hi, I’m Sarthak
 
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
 
