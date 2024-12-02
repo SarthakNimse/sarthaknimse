@@ -14,11 +14,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
-
-
-
 ## About Me 👋
 - 🌍 I'm based in Pune, India
 - 👀 I’m interested in coding and software development.
@@ -26,6 +21,8 @@
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me https://github.com/SarthakNimse
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!"🕵️‍♂️
+
+  
 
 ## Stack I work with 🤖
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
