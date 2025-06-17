@@ -68,7 +68,3 @@
 | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SarthakNimse&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarthak's github stats" /></a> | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakNimse&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-
-
-## GitHub Activity Graph
-[![Sarthak's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=SarthakNimse&custom_title=SarthakNimse%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/SarthakNimse)
