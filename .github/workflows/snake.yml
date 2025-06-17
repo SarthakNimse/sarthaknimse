@@ -2,7 +2,7 @@ name: Generate Contribution Snake 🐍
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Runs daily at 12:00 AM IST (6:30 PM UTC)
+    - cron: "0 18 * * *"  # Every day at 12:00 AM IST (6:30 PM UTC)
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,9 @@ jobs:
             ./github-contribution-grid-snake.svg
             ./github-contribution-grid-snake-dark.svg
 
-      - name: Commit and push
+      - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
-          message: "⚡ update contribution snake"
+          message: "⚡ Update GitHub Contribution Snake"
           add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
-
