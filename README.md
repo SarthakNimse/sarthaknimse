@@ -13,7 +13,7 @@
 ✨ Check out my repositories to see how I bring ideas to life. Let’s build something amazing! 🌟
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## About Me 👋
 - 🌍 I'm based in Pune, India
