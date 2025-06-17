@@ -1,3 +1,4 @@
+
 # Hi,👋 I’m Sarthak
 
 ## 👨‍💻 Software Development Engineer | Java & J2EE Enthusiast
@@ -67,4 +68,14 @@
 ### Badges 🏆
 | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SarthakNimse&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarthak's github stats" /></a> | <a href="https://github.com/SarthakNimse/SarthakNimse"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakNimse&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
+
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarthakNimse/sarthaknimse/blob/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarthakNimse/sarthaknimse/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/SarthakNimse/sarthaknimse/blob/main/github-contribution-grid-snake.svg" />
+</picture>
+
 
