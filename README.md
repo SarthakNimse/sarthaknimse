@@ -18,7 +18,7 @@
 ## About Me 👋
 - 🌍 I'm based in Pune, India
 - 👀 I’m interested in coding and software development.
-- 🌱 I’m currently learning Java and full stack web development.
+- I’m currently working as a Software Engineer at Smartwork Ideas Pvt. Ltd. 
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me https://github.com/SarthakNimse
 - ⚡ Fun fact: Debugging is like being the detective
