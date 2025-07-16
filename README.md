@@ -20,7 +20,7 @@
 - 👀 I’m interested in coding and software development.
 - 💻 I’m currently working as a Software Engineer at Smartwork Ideas Pvt. Ltd. 
 - 💞️ I’m looking to collaborate on Java Projects.
-- 📫 How to reach me: sarthaknimse-javadeveloper.netlify.app.
+- 📫 How to reach me:  [sarthaknimse-javadeveloper.netlify.app](https://sarthaknimse-javadeveloper.netlify.app)
 - ⚡ Fun fact: Debugging is like being the detective
  in a crime movie where you are also the murderer!"🕵️‍♂️ 
 
